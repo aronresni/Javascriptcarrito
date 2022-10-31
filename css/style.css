@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    margin: 0%;
+}
+
+header {
+    height: 70px;
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+.direct-logo {
+    width: 40%;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+    padding-right: 10px;
+}
+
+a:hover {
+    color: rgb(19, 75, 67);
+}
