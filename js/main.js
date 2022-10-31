@@ -36,9 +36,9 @@ function opcionesCatalogo(accionOpciones) {
     switch (accionOpciones) {
 
         case 2:
-            alert(`Zapatillas Nike Mid Blazer 77 agregado al carrito
+            alert(`Zapatillas Pegasus 37 agregado al carrito
         Total a Pagar:$${precioTotal}`)
-            precioTotal = precioTotal + 16999
+        precioTotal=precioTotal+ 16999
             break
          
 
